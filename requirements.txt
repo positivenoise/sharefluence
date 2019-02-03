@@ -1,0 +1,4 @@
+atlassian-python-api
+requests_ntlm
+requests
+flask
